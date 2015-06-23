@@ -1,4 +1,4 @@
-#!/usr/bin/ruby2.0
+#!/usr/bin/env ruby
 
 class Proxy
   instance_methods.each do |m|
